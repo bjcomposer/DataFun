@@ -1,7 +1,7 @@
 # DataFun
 A repository for all the Data Science adventures we will embark on. 
 
-###Contributers - chiRal and BJ
+###Contributers - chiRal and bjcomposer
 
 ###Use cases
 
